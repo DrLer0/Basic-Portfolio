@@ -84,7 +84,7 @@ html, body {
 }
 
 body{
-    background-image: url(/assets/images/triangle-mosaic.png);
+    background-image: url(assets/images/triangle-mosaic.png);
     /* background: lightblue; */
     margin: 0;
     padding: 0;
