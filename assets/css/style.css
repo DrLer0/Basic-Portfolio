@@ -94,8 +94,18 @@ body{
 
 p{
     color: #777777;
+    line-height: 200%;
 }
 
+.list{
+    float: left;
+    padding: 3px;
+    margin: 0px;
+}
+h4, ul{
+ margin-top: 1px;
+ margin-bottom: 1px;
+}
 footer{
     /* border-top: 100px; */
     padding: 20px;
