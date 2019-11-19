@@ -22,7 +22,7 @@
 
 #About {
     margin-top: 50px;
-    margin-left: 28%;
+    margin-left: 20%;
     float: left;
     width: 10%;
     /* padding-top: 10px; */
@@ -50,7 +50,7 @@ img{
     margin: 50px auto 100px auto;
     /* margin-top: 50px; */
     /* margin-bottom: 100px; */
-    padding: 50px;
+    /* padding: 50px; */
     border: 2px solid #dddddd;
     flex: 1 0 auto;
 }
@@ -92,15 +92,21 @@ body{
     flex-direction: column;
 }
 
-p{
+p, p1{
     color: #777777;
     line-height: 200%;
+    padding-right: 16px;
+}
+
+p1{
+    clear: left;
+    border-top: 20px;
 }
 
 .list{
     float: left;
     padding: 3px;
-    margin: 0px;
+    margin-bottom: 10px;
 }
 h4, ul{
  margin-top: 1px;
