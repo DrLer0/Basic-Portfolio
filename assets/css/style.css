@@ -117,3 +117,44 @@ footer{
     text-align: center;
     flex-shrink: 0;
 }
+
+.form1 {
+    display: table;
+    margin: 0px auto 0px 20px;
+    border: 0px;
+}
+
+.form2 {
+    display: table-row;
+    /* margin-left: 20px; */
+    
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 5px;
+    padding: 0px;
+    height: 24px;
+}
+input {
+    /* margin: 0px 20px 10px; */
+    width: 917px;
+    clear: both;
+}
+.message{
+    height: 20%;
+    padding-bottom: 100px;
+}
+.button {
+    width: 10%;
+    height: 40px;
+    background: #4aaaa5;
+    color: #ffffff;
+    font-size: 16px;
+    margin: 20px auto;
+}
+
+label {
+    float: left;
+    padding-right: 10px;
+}
