@@ -3,20 +3,22 @@
     float: left;
     color: white;
     padding: 33px;
-    margin-top: 0px;
+    margin: 0px;
 }
 .wrapper{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
     height: 100%;
     flex: 1;
+    display: flex;
+    flex-direction: column;
 }
 .Content{
     border-bottom-style: solid;
     border-color: #cccccc;
     background: #ffffff;
-    margin: auto;
-    flex: 1 0 auto;
+    /* margin: auto; */
+    /* flex: 1 0 auto; */
 }
 
 #About {
@@ -61,7 +63,7 @@ header {
     text-align: center;
 
 }
-#about{
+.header1{
     border-bottom-style: solid;
     margin: 20px;
     border-color: #cccccc;
