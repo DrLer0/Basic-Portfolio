@@ -69,6 +69,21 @@ header {
     border-color: #cccccc;
     
 }
+.box{
+    float: left;
+    background: orange;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+p.header2{
+    color: #ffffff;
+    background: #4aaaa5;
+    margin: 100px;
+    /* bottom: 200px; */
+    text-align: center;
+}
+
 h1{
     font-family: 'Georgia', Times, Times New Roman, serif;
     clear: left;
