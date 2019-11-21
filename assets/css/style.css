@@ -78,6 +78,7 @@ header {
     margin: 20px;
 }
 .boxlabel{
+    font-family: 'Georgia', Times, Times New Roman, serif;
     color: #ffffff;
     background: #4aaaa5;
     width: auto;
