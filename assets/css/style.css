@@ -176,3 +176,10 @@ label {
     float: left;
     padding-right: 10px;
 }
+a{
+    text-decoration: none;
+}
+a:hover{
+    background: rgb(74,170,165);
+background: linear-gradient(90deg, rgba(74,170,165,0.7049194677871149) 10%, rgba(204,204,204,0.5340511204481793) 50%, rgba(74,170,165,0.8421743697478992) 95%);
+}
